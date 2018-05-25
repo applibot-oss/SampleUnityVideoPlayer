@@ -18,7 +18,7 @@ video.OnStarted  = ( 再生開始時の処理、インジケータ非表示等 )
 video.PlayPrepared( false(ループしない) , true(タップによってスキップする) );
 ```
 [Sample.cs](https://github.com/applibot-inc/SampleUnityVideoPlayer/blob/master/SampleUnityVideoPlayer/Assets/Scripts/Sample.cs)を参考にしてください。
-その他詳細は近日中に[ブログ-てっくぼっと！](http://blog.applibot.co.jp/)に書きますので、しばらくお待ちください
+その他詳細は[ブログ-てっくぼっと！](http://blog.applibot.co.jp/blog/2018/05/25/how-to-use-unity-videoplayer/)を参照ください。
 
 # 動作確認方法
 - Sample.unityシーンでPlayボタンを押してください
